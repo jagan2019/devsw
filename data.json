@@ -1,0 +1,14 @@
+{
+  "Name":"Rahul",
+  "Age":25,
+  "Location":[
+    {
+    "Name":"Chennai",
+    "Pin":45678
+    },
+    {
+    "Name":"Pune",
+    "Pin":60600
+    }
+  ]
+}
